@@ -1,16 +1,31 @@
-# green_aix_change
 
-A new Flutter project.
+# GreenAixChange
+
+GreenAixChange is a Flutter-based application designed for https://www.aixcsc.de/, a cultivation association in Aachen, Germany. It facilitates the management of inventory and distribution tracking within the association.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (See [Flutter installation guide](https://docs.flutter.dev/get-started/install))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repo:
+   ```
+   git clone https://github.com/stickerdaniel/GreenAixChange.git
+   ```
+2. Install Flutter dependencies:
+   ```
+   flutter pub get
+   ```
+3. Run the app:
+   ```
+   flutter run
+   ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to fork the repository and submit pull requests.
